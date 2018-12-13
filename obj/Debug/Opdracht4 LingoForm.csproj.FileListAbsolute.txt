@@ -1,0 +1,10 @@
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\bin\Debug\Opdracht4 LingoForm.exe.config
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\bin\Debug\Opdracht4 LingoForm.exe
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\bin\Debug\Opdracht4 LingoForm.pdb
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4 LingoForm.csprojAssemblyReference.cache
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4_LingoForm.Form1.resources
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4_LingoForm.Properties.Resources.resources
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4 LingoForm.csproj.GenerateResource.cache
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4 LingoForm.csproj.CoreCompileInputs.cache
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4 LingoForm.exe
+D:\C#\J1P2W3\Periode 2\OpdrachtenWeek5\Opdracht4 LingoForm\obj\Debug\Opdracht4 LingoForm.pdb
